@@ -16,9 +16,13 @@
  wv-cli init projectName  template-webpack-vue-pc
  
  ### 基于webpack的mobile工程
- wv-cli init projectName  template-vue-cli-mibile
+ wv-cli init projectName  template-webpack-vue-mobile
  
  ### 基于vue-cli的pc工程
  wv-cli init projectName  template-vue-cli-pc
+ 
+ ### 基于webpack的mobile工程
+ wv-cli init projectName  template-vue-cli-mobile
+ 
 
 ```
