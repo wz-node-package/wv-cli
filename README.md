@@ -10,7 +10,15 @@
  ## 安装依赖
  npm install wv-cli -g
 
- ## 初始化一个工程项目
+ ## 初始化一个vue工程项目
+ 
+ ### 基于webpack的pc工程
  wv-cli init projectName  template-webpack-vue-pc
+ 
+ ### 基于webpack的mobile工程
+ wv-cli init projectName  template-vue-cli-mibile
+ 
+ ### 基于vue-cli的pc工程
+ wv-cli init projectName  template-vue-cli-pc
 
 ```
